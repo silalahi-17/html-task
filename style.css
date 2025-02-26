@@ -1,0 +1,21 @@
+.user {  
+    width: 15px;
+    height: 15px;
+    margin-top: 4px;
+}
+.navbar-brand {
+    width: 100px;
+    height: 40px;
+}
+.img1 {
+    width: 600px;
+    height: 500px;
+    margin-top: 140px;
+    border: 1px none grey;
+}
+.head {
+    font-size: 56;
+}
+.a {
+    color: #556319;
+}
