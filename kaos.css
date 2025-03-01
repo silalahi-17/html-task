@@ -1,0 +1,32 @@
+.logo {
+    width: 80px;
+    margin-right: 80;
+}
+.form-control {
+    background: url(img/loupe.png) no-repeat left 10px center;
+    background-size: 15px;
+    
+}
+
+::placeholder {
+    padding-left: 30;
+}
+.icon {
+    height: 18px;
+}
+.navbar-nav {
+    margin-right: 100px;
+}
+.produk {
+    height: 200;
+}
+.label {
+    width: 550;
+}
+
+span {
+    color: black;
+}
+.nav-icon {
+    margin-left: 80px;
+}
